@@ -4,4 +4,4 @@ lab1
 Назва: Розробка статичного інтерфейсу Web-додатка
 
 Завдання: Калькулятор (режим звичайний, для програміста) 
-Посилання на звіт:https://docs.google.com/document/d/1XUDDvf5IS4vVN5jsO22AVsMAJr6xXfoNVxFiyamo1e4/edit#
+Посилання на звіт:https://docs.google.com/document/d/1XUDDvf5IS4vVN5jsO22AVsMAJr6xXfoNVxFiyamo1e4/edit?usp=sharing
